@@ -1,5 +1,8 @@
 {
     "git.enableCommitSigning": false,
     "git.showPushSuccessNotification": true,
-    "git.supportCancellation": true
+    "git.supportCancellation": true,
+    "cSpell.words": [
+        "worktrees"
+    ]
 }
